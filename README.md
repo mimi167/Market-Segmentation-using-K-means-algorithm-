@@ -15,7 +15,7 @@ RFM stands for Recency, Frequency, and Monetary Value, and it is a widely used t
 By evaluating these three aspects—Recency, Frequency, and Monetary Value—RFM analysis helps classify customers into different segments based on their behavior. This approach allows businesses to tailor their marketing strategies and engagement efforts to each segment's specific characteristics and needs.</br></br>
  
 ## Conclusion
-Customer segmentation, a crucial endeavor, identifies distinct customer traits. K-Means clustering segments loyal, new, and churned customers. Cluster 2 comprises frequent, high-spending recent buyers—loyal customers. Cluster 0 includes less frequent, lower-spending recent buyers—new customers. Cluster 1 consists of infrequent, low-spending old-time buyers—churned customers.</br>
+Market segmentation, a crucial endeavor, identifies distinct customer traits. K-Means clustering segments loyal, new, and churned customers. Cluster 2 comprises frequent, high-spending recent buyers—loyal customers. Cluster 0 includes less frequent, lower-spending recent buyers—new customers. Cluster 1 consists of infrequent, low-spending old-time buyers—churned customers.</br>
 
 Suggestions:</br>
 
